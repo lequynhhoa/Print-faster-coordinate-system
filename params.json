@@ -1,0 +1,6 @@
+{
+  "name": "Qgis print coordinate",
+  "tagline": "coordinate",
+  "body": "### Welcome to QGIS print coordinate system\r\n\r\nThis plug in allow user to quickly check coordinate system of all open layers. \r\nEspecially, with Vietnam local coordinate system VN2000, this tool will print the name and configuration (central meridian for each province) which is difficult to remember.\r\n\r\n### Authors and Contributors\r\n\r\nLe Thi Quynh Hoa, Green Field Consulting, ltd.\r\nhttp://gfd.com.vn/\r\n\r\n### Support or Contact\r\nEmail: hoa.lq@gfd.com.vn\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
